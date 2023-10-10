@@ -39,5 +39,6 @@ testem.log
 /typings
 
 # System files
+/.vscode
 .DS_Store
 Thumbs.db
